@@ -1,8 +1,13 @@
 
 function araa(){
-var ara[]={1,2,3,4};
+const facts = [
+  "He was the last Beatle to learn to drive",
+  "He was never a vegetarian",
+  "He was a choir boy and boy scout",
+  "He hated the sound of his own voice"
+];
 for (var b=0;b<4;b++){
   
-  console.log(ara[b]);
+  console.log(facts[b]);
   
 }}
